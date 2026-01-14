@@ -1,0 +1,8 @@
+{
+  "name": "LensBase - Advanced Photo Management",
+  "description": "A comprehensive photo database for professional management, comparative analysis, and metadata enrichment powered by AI.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
